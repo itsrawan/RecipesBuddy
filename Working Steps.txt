@@ -1,0 +1,21 @@
+RecipesBuddy 
+------------
+A web application build and developed using Spring Boot (v. 3.5.7), React (v. 18.2)
+
+
+Application Initalization 
+--------------------------
+
+1- Prepare AI standareds for Project Context Rules and My Implementation Best Practices Rules
+2- Init Spring Boot project and dependancies 
+3- Request AI to Scan the project and based on the "Project Context Rules" and Integrate with Spoonacular APIs and Generate all the needed classes and files
+4- review all the generated code apply so changes on parameter names add some enhancements
+5- Review and test all the unit tests fixing some issue 
+6- Testing the APIs using Postman
+7- Init React project with my folder structure 
+8- Request AI to Scan the Frontend project and generate the files based on the "Project Context Rules"
+9- Review the generated code and start testing
+10- Start Enhance the UI, Fixing issue [Manual and AI using Tasks files]
+11- Prepare .\README.md and .\Working Steps.txt [Manual]
+12- preparing user manual [AI]
+13- Generate Docker Image [Manual]

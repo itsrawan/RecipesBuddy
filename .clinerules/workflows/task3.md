@@ -1,0 +1,9 @@
+- When navigate back to the home bage from the recipe details page, Keep the filtered recipes list also the searched filters text inputs and search button enable and clear buttone enables and visable
+- Add Dependancy and Implement Rate Limiting, for 10 requests per minute per IP address
+- Create WireMock integration tests for Soonacular APIs
+- Create recipe search E2E tests
+- Create recipe details E2E tests
+- Create calorie calculator E2E tests
+- Implement mock mode toggle parameter for using Search Response Mock on development and live Response on production
+- Document backend
+- Document frontend code in a simple way
