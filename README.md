@@ -49,6 +49,7 @@ AI Usage
         - start "enhance UI.md" task
         - start "task2.md" 
         - [UI Change]: on the RecipeCard display also the value of totalCalories, Carbs, protein, and fat from the NutifionInfo
+        - start "task3.md" 
 keep duration, service and calories under each other and next to them carbs, protein and fat
     
     - Generate Setup Instruction
